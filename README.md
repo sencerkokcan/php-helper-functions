@@ -16,4 +16,3 @@ echo slugify("Hello World");
 =======
 # php-helper-functions
 Useful PHP helper functions for everyday development
->>>>>>> 6816a079bdff464424a281d1af5f290c822e1953
